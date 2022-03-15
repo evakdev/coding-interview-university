@@ -582,7 +582,7 @@ But don't forget to do coding problems from above while you learn!
 ## My Additions
 
 - [x] [Memory Allocation in Python](https://code.tutsplus.com/tutorials/understand-how-much-memory-your-python-objects-use--cms-25609)
-
+- [x] [Time Complexities for various data structure operations in Python](https://wiki.python.org/moin/TimeComplexity)
 
 ## Algorithmic complexity / Big-O / Asymptotic analysis
 
@@ -614,8 +614,8 @@ if you can identify the runtime complexity of different algorithms. It's a super
     - [ ] About Arrays:
         - [x] [Arrays (video)](https://www.coursera.org/lecture/data-structures/arrays-OsBSF)
         - [UC Berkeley CS61B - Linear and Multi-Dim Arrays (video)](https://archive.org/details/ucberkeley_webcast_Wp8oiO_CZZE) (Start watching from 15m 32s)
-        - [Dynamic Arrays (video)](https://www.coursera.org/lecture/data-structures/dynamic-arrays-EwbnV)
-        - [Jagged Arrays (video)](https://www.youtube.com/watch?v=1jtrQqYpt7g)
+        - [x] *Interesting* [Dynamic Arrays (video)](https://www.coursera.org/lecture/data-structures/dynamic-arrays-EwbnV)
+        - [x] Jagged Arrays (video)](https://www.youtube.com/watch?v=1jtrQqYpt7g)
     - [ ] Implement a vector (mutable array with automatic resizing):
         - [ ] Practice coding using arrays and pointers, and pointer math to jump to an index instead of using indexing.
         - [ ] New raw data array with allocated memory
@@ -652,7 +652,7 @@ if you can identify the runtime complexity of different algorithms. It's a super
     - [x] Linked List vs Arrays:
         - [Core Linked Lists Vs Arrays (video)](https://www.coursera.org/lecture/data-structures-optimizing-performance/core-linked-lists-vs-arrays-rjBs9)
         - [In The Real World Linked Lists Vs Arrays (video)](https://www.coursera.org/lecture/data-structures-optimizing-performance/in-the-real-world-lists-vs-arrays-QUaUd)
-    - [x] [why you should avoid linked lists (video)](https://www.youtube.com/watch?v=YQs6IC-vgmo)
+    - [x] *Interesting* [why you should avoid linked lists (video)](https://www.youtube.com/watch?v=YQs6IC-vgmo)
     - [ ] Gotcha: you need pointer to pointer knowledge:
         (for when you pass a pointer to a function that may change the address where that pointer points)
         This page is just to get a grasp on ptr to ptr. I don't recommend this list traversal style. Readability and maintainability suffer due to cleverness.
