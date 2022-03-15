@@ -1,5 +1,6 @@
 # Coding Interview University
-
+<details> 
+	<summary> ## Intro </summary>
 > I originally created this as a short to-do list of study topics for becoming a software engineer,
 > but it grew to the large list you see today. After going through this study plan, [I got hired
 > as a Software Development Engineer at Amazon](https://startupnextdoor.com/ive-been-acquired-by-amazon/?src=ciu)!
@@ -106,10 +107,11 @@ Facebook and Microsoft view software engineering as different from web developme
 Frontend Engineers (FEE) and Software Development Engineers (SDE). These are 2 separate roles and the interviews for 
 them will not be the same, as each has its own competencies. These companies require computer science knowledge for 
 software development/engineering roles.
-
+</details>
 ---
-
-## Table of Contents
+<details>
+	
+	<summary>## Table of Contents</summary>
 
 ### The Study Plan
 
@@ -232,9 +234,10 @@ software development/engineering roles.
 - [Video Series](#video-series)
 - [Computer Science Courses](#computer-science-courses)
 - [Papers](#papers)
-
+</details>
 ---
-
+<details>
+	<summary>## Other Info </summary>
 ## Why use it?
 
 If you want to work as a software engineer for a large company, these are the things you have to know.
@@ -350,8 +353,9 @@ Read more about choices:
 - [Choose the Right Language for Your Coding Interview](http://www.byte-by-byte.com/choose-the-right-language-for-your-coding-interview/)
 
 [See language-specific resources here](programming-language-resources.md)
-
-## Books for Data Structures and Algorithms
+</details>
+<details>
+	<summary>## Books for Data Structures and Algorithms</summary>
 
 This book will form your foundation for computer science.
 
@@ -391,8 +395,9 @@ Your choice:
 - Sedgewick and Wayne
     - [Algorithms in C++, Parts 1-4: Fundamentals, Data Structure, Sorting, Searching](https://www.amazon.com/Algorithms-Parts-1-4-Fundamentals-Structure/dp/0201350882/)
     - [Algorithms in C++ Part 5: Graph Algorithms](https://www.amazon.com/Algorithms-Part-Graph-3rd-Pt-5/dp/0201361183/)
-
-## Interview Prep Books
+	</details>
+	<details>
+		<summary>## Interview Prep Books</summary>
 
 You don't need to buy a bunch of these. Honestly "Cracking the Coding Interview" is probably enough, 
 but I bought more to give myself more practice. But I always do too much.
@@ -414,8 +419,9 @@ Choose one:
 - [Elements of Programming Interviews in Python](https://www.amazon.com/Elements-Programming-Interviews-Python-Insiders/dp/1537713949/)
 - [Elements of Programming Interviews (Java version)](https://www.amazon.com/Elements-Programming-Interviews-Java-Insiders/dp/1517435803/)
         - [Companion Project - Method Stub and Test Cases for Every Problem in the Book](https://github.com/gardncl/elements-of-programming-interviews)
-
-## Don't Make My Mistakes
+	</details>
+	<details>
+		<summary>## Don't Make My Mistakes</summary>
 
 This list grew over many months, and yes, it got out of hand.
 
@@ -507,8 +513,9 @@ You can see my code here:
  - [Python](https://github.com/jwasham/practice-python)
 
 You don't need to memorize every algorithm. You just need to be able to understand it enough to be able to write your own implementation.
-
-## Coding Question Practice
+	</details>
+<details>
+	<summary>## Coding Question Practice</summary>
 
     Why is this here? I'm not ready to interview.
 
@@ -535,7 +542,7 @@ Gets messy quick. **I use a pencil and eraser.**
 ![my sofa whiteboard](https://d3j2pkmjtin6ou.cloudfront.net/art_board_sm_2.jpg)
 
 **Coding question practice is not about memorizing answers to programming problems.**
-
+	</details>
 ## Coding Problems
 
 Don't forget your key coding interview books [here](#interview-prep-books).
