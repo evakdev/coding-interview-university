@@ -565,6 +565,11 @@ Challenge sites:
 
 ## Let's Get Started
 
+-------------------------------------------------------
+## My Additions
+
+- [x] [Memory Allocation in Python](https://code.tutsplus.com/tutorials/understand-how-much-memory-your-python-objects-use--cms-25609)
+-------------------------------------------------------
 Alright, enough talk, let's learn!
 
 But don't forget to do coding problems from above while you learn!
@@ -597,7 +602,7 @@ if you can identify the runtime complexity of different algorithms. It's a super
 
 - ### Arrays
     - [ ] About Arrays:
-        - [Arrays (video)](https://www.coursera.org/lecture/data-structures/arrays-OsBSF)
+        - [x] [Arrays (video)](https://www.coursera.org/lecture/data-structures/arrays-OsBSF)
         - [UC Berkeley CS61B - Linear and Multi-Dim Arrays (video)](https://archive.org/details/ucberkeley_webcast_Wp8oiO_CZZE) (Start watching from 15m 32s)
         - [Dynamic Arrays (video)](https://www.coursera.org/lecture/data-structures/dynamic-arrays-EwbnV)
         - [Jagged Arrays (video)](https://www.youtube.com/watch?v=1jtrQqYpt7g)
